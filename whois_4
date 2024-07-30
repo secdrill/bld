@@ -1,0 +1,52 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://apps.db.ripe.net/docs/HTML-Terms-And-Conditions
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '194.119.4.0 - 194.119.4.255'
+
+% Abuse contact for '194.119.4.0 - 194.119.4.255' is 'list.fr-liste-ripe@socgen.com'
+
+inetnum:        194.119.4.0 - 194.119.4.255
+netname:        NET-IN-SG-CORP-1
+country:        IN
+admin-c:        GBR38-RIPE
+tech-c:         GR10092-RIPE
+tech-c:         GBR38-RIPE
+status:         ASSIGNED PA
+mnt-by:         SOCIETE-GENERALE-MD5
+created:        2019-05-14T11:56:48Z
+last-modified:  2019-05-14T12:00:45Z
+source:         RIPE
+
+person:         GTS BLR RIPE
+address:        Societe Generale Global Solution Centre Pvt Ltd
+address:        Floor 10, Voyager Building
+address:        Ascendas ITPB SEZ,International Tech Park
+address:        Whitefield Road
+address:        Bangalore KA 560066, India
+phone:          +91-08067316410
+nic-hdl:        GBR38-RIPE
+mnt-by:         SOCIETE-GENERALE-MD5
+created:        2019-05-14T09:46:09Z
+last-modified:  2019-05-14T09:46:09Z
+source:         RIPE # Filtered
+
+person:         GTS RIPE
+address:        6 allee des sablons
+address:        94120 Fontenay Sous Bois
+address:        France
+phone:          +33 1 42 13 01 07
+nic-hdl:        GR10092-RIPE
+mnt-by:         SOCIETE-GENERALE-MD5
+created:        2017-07-07T09:43:10Z
+last-modified:  2017-08-22T12:05:10Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.113.2 (ABERDEEN)
+
+
